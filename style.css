@@ -1,0 +1,11 @@
+body {
+  background-color: lime;
+}
+
+h1, h3 {
+  color: black;
+}
+
+button {
+  border: solid lime;
+}
